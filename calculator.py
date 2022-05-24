@@ -27,8 +27,6 @@ def root(x, y): # Roots: square root, cube root, etc.
     print(equation)
 
 
-
-
 while True:
     question = input("What operation do you want use? Addition, subtraction, multiplication, division, power, or root? ")
 
